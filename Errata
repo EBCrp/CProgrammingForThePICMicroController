@@ -1,0 +1,2 @@
+# Significant errors in the book:
+p. 183 "Line 15 ADCON1 = 0x01" change to "Line 15 ADCON0 = 0x01"
